@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1de3bf16-c516-4c24-8776-0ac563a223c1",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 91,
+    "name": "AF Only category"
+  },
+  {
+    "id": "02485ebe-aec3-4ce5-871e-1327cce0576c",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 79,
+    "name": "Action / Adventure"
+  },
+  {
+    "id": "a7b96f84-9f1f-4054-9d37-de0e3f8ad578",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 62,
+    "name": "Apps"
+  },
+  {
+    "id": "e343c84a-a2ec-4abf-8228-5effbd551ee5",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 170,
+    "name": "Arcade"
+  },
+  {
+    "id": "d92a6142-4bda-42a5-ba51-35c89b936a1a",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 108,
+    "name": "Artist Focus"
+  },
+  {
+    "id": "ef6bde37-b24e-4ed2-a6a2-ee325c23a7ad",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 173,
+    "name": "Artists"
+  },
+  {
+    "id": "456bfd83-74bc-4677-8e45-0f47151876a5",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 88,
+    "name": "Basketball"
+  },
+  {
+    "id": "fdf40d25-2d03-4111-8210-859b60eec1ec",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 103,
+    "name": "Battle / Shooting Games"
+  },
+  {
+    "id": "c572398b-4755-4f6c-82df-229f547a45bf",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 71,
+    "name": "Business"
+  },
+  {
+    "id": "7cd4618c-bba2-416a-8d21-30bdebcbdfbf",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 153,
+    "name": "Career and Business"
+  },
+  {
+    "id": "6c9f5a73-ce5f-43a4-a64f-fe1c740f45e1",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 67,
+    "name": "Careers"
+  },
+  {
+    "id": "ffcc989e-dfcd-4c1e-a558-6f1e0e081b07",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 166,
+    "name": "Cartoon Network"
+  },
+  {
+    "id": "e574ec9e-665e-4c23-93e3-61c04544e186",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 169,
+    "name": "Casual"
+  },
+  {
+    "id": "b35305ac-747d-435c-9e70-d50b2d560879",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 111,
+    "name": "Classics / Throwback"
+  },
+  {
+    "id": "fc1a1b50-a072-402e-9ceb-bd4ea3ae777e",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 96,
+    "name": "Comedy"
+  },
+  {
+    "id": "88a410d5-eaa2-4762-9f26-81af238fcaba",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 165,
+    "name": "Cristiano Renaldo 7"
+  },
+  {
+    "id": "d881e01e-ae83-45a6-b552-fbbc35c11313",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 142,
+    "name": "Education"
+  },
+  {
+    "id": "4bf824f2-9798-4774-97fc-f4d433022329",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 84,
+    "name": "Educational"
+  },
+  {
+    "id": "e796225f-f9ce-4f16-adb1-022ba2eafe47",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 72,
+    "name": "Entertainment"
+  },
+  {
+    "id": "b1318040-ce02-4f2f-895c-bef9719de1c4",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 152,
+    "name": "Entertainment and Lifestyle"
+  },
+  {
+    "id": "2e956b38-f35c-4601-8cf9-45b521ae0c40",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 140,
+    "name": "Events"
+  },
+  {
+    "id": "46a8d2c3-9bd8-4cdd-b6d9-59ef9526c005",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 138,
+    "name": "Fashion"
+  },
+  {
+    "id": "5d502427-4715-4c5d-8713-2111fa8ed065",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 69,
+    "name": "Fashion & Beauty"
+  },
+  {
+    "id": "e663ecea-bebd-4b18-bf65-027697b17b53",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 147,
+    "name": "Financial"
+  },
+  {
+    "id": "b3d71986-5c43-4851-825a-05ec73c85481",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 171,
+    "name": "Fitness"
+  },
+  {
+    "id": "5beee0d5-da1f-432c-86da-06ee5c8c985f",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 149,
+    "name": "Food"
+  },
+  {
+    "id": "6ab25daa-34d8-4f3d-aab3-7ab1735d56df",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 60,
+    "name": "Football"
+  },
+  {
+    "id": "2ba2d6e0-1c3e-4fe3-add4-d9343c5e51f3",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 146,
+    "name": "Gambling"
+  },
+  {
+    "id": "c276403d-7bc6-4f4d-945f-522c7443d4c0",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 143,
+    "name": "Games"
+  },
+  {
+    "id": "7587255e-9eff-4984-b0ee-f4d14d93b9df",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 154,
+    "name": "General"
+  },
+  {
+    "id": "1495cac9-358f-48db-9033-e83767df4ac8",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 112,
+    "name": "Genre Hits"
+  },
+  {
+    "id": "2129deab-65e1-4d62-9b36-e388df91ec61",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 174,
+    "name": "Genres"
+  },
+  {
+    "id": "17e7757c-8175-460e-a680-5c269e7eb927",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 109,
+    "name": "Global Music"
+  },
+  {
+    "id": "4cac8039-5907-4c17-af0c-a4d4c46c25a7",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 73,
+    "name": "Health & Fitness"
+  },
+  {
+    "id": "dadc14f1-211d-4c8a-b43d-6c63fa95a863",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 151,
+    "name": "Health & Wellness"
+  },
+  {
+    "id": "6e756d55-f08e-464e-87a7-5abd7d2ee73b",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 177,
+    "name": "Hits"
+  },
+  {
+    "id": "ef3b3012-7ece-4775-ae2c-bf8edd8040ce",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 89,
+    "name": "Hockey"
+  },
+  {
+    "id": "18e33bdb-52c7-4655-998f-a7f64e54efca",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 163,
+    "name": "Insurance"
+  },
+  {
+    "id": "7a335921-148d-419e-9c28-7e82ba91fc1f",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 20,
+    "name": "Jason Test Category"
+  },
+  {
+    "id": "14adeaf7-9a8b-4523-a5f5-34399210c370",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 21,
+    "name": "Jason Test Category Root"
+  },
+  {
+    "id": "66c7463c-2bfb-45ce-8696-fd6bb9b89755",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 76,
+    "name": "Just Rabbit"
+  },
+  {
+    "id": "8049177d-6aa3-4bf4-8e01-e1532a9e4a2d",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 85,
+    "name": "Kids"
+  },
+  {
+    "id": "49aa429a-d23e-4ed1-afb7-fe4c38f50d0e",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 63,
+    "name": "LifeStyle"
+  },
+  {
+    "id": "68b28faa-4698-4204-ae7d-295e293611d0",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 110,
+    "name": "Local Music"
+  },
+  {
+    "id": "99c88501-9b3d-4a37-8e01-2e4e53f4cb5f",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 157,
+    "name": "MTN"
+  },
+  {
+    "id": "10e4068a-8414-4516-993f-df7b53e57f99",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 161,
+    "name": "Marketplace"
+  },
+  {
+    "id": "f09bf2d2-2234-4df0-be6a-43feabc3e9d7",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 168,
+    "name": "Match"
+  },
+  {
+    "id": "7f26b86b-6c0d-463b-aaee-b343406c90f6",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 134,
+    "name": "MicroApps"
+  },
+  {
+    "id": "ddafa28d-c836-4a12-a032-f3a8059654c1",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 176,
+    "name": "Moods"
+  },
+  {
+    "id": "727734a1-0458-4d9b-a197-50bb383e5d2a",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 135,
+    "name": "Music"
+  },
+  {
+    "id": "a4692649-5efe-4d1e-b2b3-8fb7b12033af",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 160,
+    "name": "NPO"
+  },
+  {
+    "id": "bcc129c7-8b44-4979-aaa3-2c30e18a5325",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 155,
+    "name": "New"
+  },
+  {
+    "id": "d1aea2cf-193d-4f36-8437-900c9cb53f14",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 114,
+    "name": "New Music Friday"
+  },
+  {
+    "id": "ed62ac35-1641-40a4-b4d1-25f95f46db08",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 175,
+    "name": "New Releases"
+  },
+  {
+    "id": "06945cc6-a537-482e-bd16-d36baaeb9786",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 102,
+    "name": "New!"
+  },
+  {
+    "id": "3df04959-4966-4f98-b211-fc768059c88c",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 139,
+    "name": "News"
+  },
+  {
+    "id": "1a9e7684-245d-42c1-b2b2-e339bc0f41b1",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 77,
+    "name": "Platforms"
+  },
+  {
+    "id": "877562cf-3268-488d-947e-625c28db7f2f",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 107,
+    "name": "Playlists"
+  },
+  {
+    "id": "cd0a0014-0d55-4389-91e9-fb2b158b0643",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 162,
+    "name": "Property Rental"
+  },
+  {
+    "id": "2d3b593a-cad3-4d15-91c3-45565accdb2d",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 83,
+    "name": "Puzzle"
+  },
+  {
+    "id": "a5626b8d-e901-41e8-8455-8739721fca5e",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 159,
+    "name": "Religion"
+  },
+  {
+    "id": "cb28b0bf-c02d-4bbd-9d84-9805c50787ab",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 141,
+    "name": "Rideshare"
+  },
+  {
+    "id": "d696d109-86e3-4891-af4d-0932047b21b5",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 80,
+    "name": "Role-play / Simulation"
+  },
+  {
+    "id": "b3947ca8-465e-48e4-876c-df211b40aee6",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 150,
+    "name": "Shopping and Promotions"
+  },
+  {
+    "id": "fa862de0-d91e-4bd3-a25a-53f6f3276105",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 178,
+    "name": "Shortcuts"
+  },
+  {
+    "id": "c26d3323-c195-4151-abeb-6c78debb2ccd",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 145,
+    "name": "Sports"
+  },
+  {
+    "id": "c31baa55-d21c-4291-93bb-9057e8c5b8de",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 70,
+    "name": "Spotlight"
+  },
+  {
+    "id": "ebe083c2-17ed-4caf-a5a0-7fca6806d9f5",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 81,
+    "name": "Strategy"
+  },
+  {
+    "id": "7b38f161-1a3d-4348-b609-54c52e3644c1",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 137,
+    "name": "Streaming"
+  },
+  {
+    "id": "72371197-51ff-4794-866e-a93ab3e55b1a",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 95,
+    "name": "Sub Entertainment"
+  },
+  {
+    "id": "ed3f797b-3f4d-4d86-bd74-3997107064c5",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 164,
+    "name": "Subway surfers"
+  },
+  {
+    "id": "b425c36d-5135-4445-b6e3-458444de75ba",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 148,
+    "name": "Technology"
+  },
+  {
+    "id": "dfa692ec-9924-40c2-9a7c-2dc5663b3ce9",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 19,
+    "name": "Test"
+  },
+  {
+    "id": "a2b8c495-29be-42d0-8005-d73fbfab709d",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 94,
+    "name": "Test @#$%^&*()+{}"
+  },
+  {
+    "id": "0a7abe9f-25a5-43d8-a540-182c81481e93",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 66,
+    "name": "Trade Tool"
+  },
+  {
+    "id": "f7843a0b-4092-4a13-9c31-28686c0bbd06",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 97,
+    "name": "Travel"
+  },
+  {
+    "id": "e186edce-fcff-4242-880e-6011f82a5b67",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 144,
+    "name": "Travel and Tourism"
+  },
+  {
+    "id": "f18baabc-2d24-47c6-b701-29605af64467",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 156,
+    "name": "Trending"
+  },
+  {
+    "id": "7de95edf-6ad5-43c0-9403-5f6371b0a8ea",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 78,
+    "name": "Trending Games"
+  },
+  {
+    "id": "4833e0dc-c300-466e-b05f-315531f79029",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 136,
+    "name": "Videos"
+  },
+  {
+    "id": "2ae8e41e-2b32-4fce-9612-674146a5d694",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 113,
+    "name": "Weekly Charts"
+  },
+  {
+    "id": "dd6bb604-6b67-4808-95ad-66fd3b50b4d8",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 167,
+    "name": "World Cup Updates"
+  },
+  {
+    "id": "d15fca5f-8fda-426e-ba24-3e6b94a62387",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 179,
+    "name": "ayoba"
+  },
+  {
+    "id": "adf722a7-7eb6-403e-b6bf-947a6d3d5693",
+    "type": "taxonomy_term--category",
+    "drupal_internal__tid": 87,
+    "name": "jason test sub"
+  }
+]
